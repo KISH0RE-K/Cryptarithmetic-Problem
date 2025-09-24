@@ -1,6 +1,6 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name: BHUMIREDDY LAKSHMI VARDHAN REDDY</h3>
-<h3>Register Number: 212223240016</h3>
+<h3>Name: Kishore K</h3>
+<h3>Register Number: 212223040101</h3>
 <H3>Aim:</H3>
 <p>
     To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
